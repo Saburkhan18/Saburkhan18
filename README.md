@@ -1,8 +1,8 @@
 ## Hi there! 👋
 
-Hello, I am Sabur khan 👋
+## Hello, I am Sabur khan 👋
 
-Here's a little bit about myself...
+## Here's a little bit about myself...
 
  A passionate and detail-oriented data analyst enthusiast. My academic background in Bachelor's of computer application (BCA), I am eager to kickstart my career in the dynamic field of data analysis. My academic background, coupled with hands-on projects, has equipped me with a strong foundation in data manipulation, analysis, and visualization.
 
