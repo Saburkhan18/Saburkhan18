@@ -13,15 +13,13 @@
 - **Excel:** Advanced proficiency in Excel for data organization and analysis.
 - **Power Bi:** Proficient in Power BI for transforming raw data into meaningful insights that drive informed decision-making.
 
-### 🚀 Projects:
-- [Project Name 1](link-to-project-1): Brief description of the project and the skills utilized.
-
 
 ###  My Certifications and Courses
   
    SQL CERTIFICATE BY LINKEDIN LEARNING https://lnkd.in/dq9VCnhz 
    
-   PYTHON CERTIFICATE BY UDEMY https://www.udemy.com/certificate/UC-b48e78a1-c093-468f-b400-aaa7b2a5f0b9/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email
+   PYTHON CERTIFICATE BY UDEMY 
+https://www.udemy.com/certificate/UC-b48e78a1-c093-468f-b400-aaa7b2a5f0b9/
 
 ### 🌱 Learning Goals:
 I am committed to continuous learning and staying updated with the latest advancements in data analytics and technology. Currently, I'm focusing on enhancing my skills in [Specific Area of Interest, e.g., Machine Learning, Big Data].
